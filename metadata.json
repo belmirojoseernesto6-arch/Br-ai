@@ -1,0 +1,6 @@
+{
+  "name": "OmniSphere - Plataforma Global de Redes Sociais",
+  "description": "Plataforma web profissional que reúne redes sociais num único ambiente digital com agregador de canais, feed unificado, diretório público, smart bio-link e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
